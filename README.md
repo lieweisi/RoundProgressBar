@@ -11,7 +11,7 @@
         maven { url 'https://jitpack.io' }
     }
     2.在app的bulid.gradle中添加引用  
-    compile 'com.github.lieweisi:SelectPhotos:v1.0'
+    compile 'com.github.lieweisi:RoundProgressBar:v1.0'
     
 ### 具体使用步骤：
     1.在布局添加：
